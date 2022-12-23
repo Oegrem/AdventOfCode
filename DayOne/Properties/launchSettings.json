@@ -1,0 +1,104 @@
+{
+  "profiles": {
+    "DayOne": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    },
+    "DayTwo": {
+      "commandName": "Project",
+      "commandLineArgs": "2"
+    },
+    "DayThree": {
+      "commandName": "Project",
+      "commandLineArgs": "3"
+    },
+    "DayFour": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    },
+    "DayFive": {
+      "commandName": "Project",
+      "commandLineArgs": "5"
+    },
+    "DaySix": {
+      "commandName": "Project",
+      "commandLineArgs": "6"
+    },
+    "DaySeven": {
+      "commandName": "Project",
+      "commandLineArgs": "7"
+    },
+    "DayEight": {
+      "commandName": "Project",
+      "commandLineArgs": "8"
+    },
+    "DayNine": {
+      "commandName": "Project",
+      "commandLineArgs": "9"
+    },
+    "DayTen": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    },
+    "DayEleven": {
+      "commandName": "Project",
+      "commandLineArgs": "11"
+    },
+    "DayTwelve": {
+      "commandName": "Project",
+      "commandLineArgs": "12"
+    },
+    "DayThirteen": {
+      "commandName": "Project",
+      "commandLineArgs": "13"
+    },
+    "DayFourteen": {
+      "commandName": "Project",
+      "commandLineArgs": "14"
+    },
+    "DayFifteen": {
+      "commandName": "Project",
+      "commandLineArgs": "15"
+    },
+    "DaySixteen": {
+      "commandName": "Project",
+      "commandLineArgs": "16"
+    },
+    "DaySeventeen": {
+      "commandName": "Project",
+      "commandLineArgs": "17"
+    },
+    "DayEighteen": {
+      "commandName": "Project",
+      "commandLineArgs": "18"
+    },
+    "DayNineteen": {
+      "commandName": "Project",
+      "commandLineArgs": "19"
+    },
+    "DayTwenty": {
+      "commandName": "Project",
+      "commandLineArgs": "20"
+    },
+    "DayTwentyone": {
+      "commandName": "Project",
+      "commandLineArgs": "21"
+    },
+    "DayTwentytwo": {
+      "commandName": "Project",
+      "commandLineArgs": "22"
+    },
+    "DayTwentythree": {
+      "commandName": "Project",
+      "commandLineArgs": "23"
+    },
+    "DayTwentyfour": {
+      "commandName": "Project",
+      "commandLineArgs": "24"
+    },
+    "DayTwentyfive": {
+      "commandName": "Project",
+      "commandLineArgs": "25"
+    }
+  }
+}
