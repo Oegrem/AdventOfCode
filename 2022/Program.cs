@@ -79,7 +79,7 @@ class Program
 				await Completed.DayTwentyfour.Main.SolvePuzzle();
 				break;
 			case 25:
-				await DayTwentyfive.Main.SolvePuzzle();
+				await Completed.DayTwentyfive.Main.SolvePuzzle();
 				break;
 			default:
 				break;

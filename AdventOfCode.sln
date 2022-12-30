@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "AdventOfCode2022\Common.csproj", "{06951AE9-E6F1-41D1-BE7A-DA141F2D078C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{06951AE9-E6F1-41D1-BE7A-DA141F2D078C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{2DA007D1-BD6D-439D-BB7D-8E4FCC7DE36E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Puzzles", "Puzzles\Puzzles.csproj", "{D774F666-F71C-4FD7-B475-B169F9A9E056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2022", "2022\2022.csproj", "{D774F666-F71C-4FD7-B475-B169F9A9E056}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
